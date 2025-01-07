@@ -1,4 +1,4 @@
-# SQL-Ad_hoc-Analysis
+# Consumer Goods Ad_hoc-Analysis
 This project is part of data analytics bootcamp at codebasics.
 
 # Consumer-Goods-Analytics
